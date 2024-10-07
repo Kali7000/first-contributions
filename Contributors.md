@@ -1,5 +1,6 @@
 # Contributors
 -Testing out CLI, aprv
+- Never forget, Confusion is part of Programming - Vishal
 - I'm [Furkan Kapukaya](https://github.com/furkankapukayaa). **Hi from TÜRKİYE**
 - Hello, I'm [Cyber DK](https://github.com/dk1285) and it's my first open source contribution.
 - Hey, I'm Zaid and it's my first open source contribution.
